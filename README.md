@@ -16,10 +16,7 @@ This application is a back end for an e-commerce website.
 https://github.com/Rachel8078/e-commerce-back-end
 
 ## Video Walkthrough Link
-
-
-## Screenshot
-![](./assets/images/e-commerce-back-end.png)
+https://drive.google.com/file/d/1W4DatTU9w5lq99MYnqGguCVctcJNx_Kp/view
 
 ## Contribution
 Made by Rachel Marriott
